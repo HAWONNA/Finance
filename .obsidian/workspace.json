@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "7536657a2ad18147",
+    "type": "split",
+    "children": [
+      {
+        "id": "327ef20ffd47f9e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9851ac8ba1ecf65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-09-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e669fb5510ff93ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git, github란.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a837cfda996fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-09-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f8565f6ba766aa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a9dadf4af3f6c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf70e0855535d85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d474409957fcac8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a3c56d55b32a2f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0bc729a10d83025",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb3e3cb1524f5fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0360c6fc439b34b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Daily/2024-09-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "829eaddd0c11d878",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Daily/2024-09-09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5c52a4214c0150b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c6023aa25b697bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Daily/2024-09-09.md"
+              }
+            }
+          },
+          {
+            "id": "6a4dbece6e80e8fa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 출판": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "63a837cfda996fe7",
+  "lastOpenFiles": [
+    "잘 짜여진 코드란.md",
+    "git, github란.md",
+    "1. Daily/2024-09-09.md",
+    "Obsidian/1차 노트필기 (all raw data)",
+    "3. Monthly/2024-09.md",
+    "2. Weekly/9월 첫째주.md",
+    "1. Daily/24.09.08.md",
+    "1. Daily/2024-09-08.md",
+    "2. Weekly/237.md",
+    "Obsidian",
+    "Attached File",
+    "4. Yearly",
+    "3. Monthly",
+    "2. Weekly",
+    "1. Daily"
+  ]
+}
