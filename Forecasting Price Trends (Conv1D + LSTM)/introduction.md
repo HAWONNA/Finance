@@ -1,4 +1,4 @@
-**Project Title: Forecasting Price Trends Using Hourly Data through Conv1D + LSTM Architectures**
+## ** Project Title: Forecasting Price Trends Using Hourly Data through Conv1D + LSTM Architectures**
 
 **Project Description:**  
 Numerous studies have demonstrated the efficacy of Conv1D and LSTM architectures in time series forecasting. Motivated by these findings, this project seeks to investigate the performance of these models when applied to real-world financial market indices. Specifically, the hourly data of five major global indices—S&P 500, NASDAQ, KOSPI 200, Nikkei, and DAX—were collected as input data to forecast their future trends. Among these, the DAX index provided the most comprehensive hourly sample data, thus becoming the primary focus of this study’s time series forecasting using the Conv1D + LSTM model.
