@@ -2,7 +2,7 @@
 
 ## Overview:
 
-### 0) Project Objective:
+0) Project Objective:
 The primary goal of this project is to automate the process of assessing corporate credit ratings by utilizing artificial intelligence to learn existing credit evaluation methodologies, while simultaneously scraping corporate financial statements from online sources. The aim is to streamline and automate the traditional corporate credit rating services.
 
 ### 1) What is a Corporate Credit Evaluation Service?
