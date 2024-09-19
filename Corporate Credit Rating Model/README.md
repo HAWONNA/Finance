@@ -1,4 +1,4 @@
-# Project Title: Corporate Credit Evaluation Model
+# Project Title: Corporate Credit Rating Model
 
 ## Overview:
 ### 0) Project Objective:
