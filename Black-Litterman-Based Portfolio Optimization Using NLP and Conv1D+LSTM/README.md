@@ -1,6 +1,6 @@
 ### Project Title: A Study on Black-Litterman-Based Portfolio Optimization Using NLP and Conv1D+LSTM
 
-**Summary:**  
+**abstract:**  
 This project investigates portfolio optimization within the Black-Litterman framework, specifically employing natural language processing (NLP) and Conv1D+LSTM techniques to model market views. To evaluate the effectiveness of Black-Litterman-based portfolio optimization, the study conducts a comparative analysis using various weighting methods. These include: 1) Equal Weighting, 2) Markowitz Mean-Variance Optimization Weighting based on the Efficient Frontier and Maximum Sharpe Ratio, 3) Market-Cap Weighting, 4) Free-Float Weighting (Float-Adjusted Market Cap Weighting), 5) Weighting by Mean-Variance Optimization (MVO) with Implied Returns, and 6) Weighting by Implied Returns with Adjusted Views. 
 
 Weighting methods (1) through (4) are applied without the Black-Litterman model, while methods (5) and (6) incorporate Black-Litterman to determine if significant differences in portfolio performance arise. The performance evaluation criteria include Average Return, Standard Deviation, Sharpe Ratio, Minimum Return, Maximum Return, Alpha, and Beta. Backtesting is conducted on a quarterly basis for each phase of the market from Q1 to Q4 of 2021, using market cycle data from Statistics Korea's Business Cycle Clock.
